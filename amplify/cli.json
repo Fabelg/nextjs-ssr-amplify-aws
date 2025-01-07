@@ -28,5 +28,8 @@
     "appsync": {
       "generategraphqlpermissions": true
     }
+  },
+  "debug": {
+    "shareProjectConfig": false
   }
 }
