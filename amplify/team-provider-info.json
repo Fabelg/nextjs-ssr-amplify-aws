@@ -9,7 +9,7 @@
       "UnauthRoleName": "amplify-pokessr-dev-185133-unauthRole",
       "StackName": "amplify-pokessr-dev-185133",
       "StackId": "arn:aws:cloudformation:us-east-1:695841149075:stack/amplify-pokessr-dev-185133/3a8e42e0-b823-11eb-b3e6-0ecd7efaa235",
-      "AmplifyAppId": "d31r520fbr96mj"
+      "AmplifyAppId": "d1krzt4gwn8m1f"
     },
     "categories": {
       "hosting": {
@@ -30,7 +30,7 @@
       "UnauthRoleName": "amplify-pokessr-main-6991f-unauthRole",
       "StackName": "amplify-pokessr-main-6991f",
       "StackId": "arn:aws:cloudformation:eu-west-3:108782092798:stack/amplify-pokessr-main-6991f/24342700-ccd6-11ef-a62c-06ce91152ccf",
-      "AmplifyAppId": "d18cu70jvsdb4n"
+      "AmplifyAppId": "d1krzt4gwn8m1f"
     },
     "categories": {
       "hosting": {
